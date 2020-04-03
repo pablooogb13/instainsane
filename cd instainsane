@@ -1,0 +1,3 @@
+cd instainsane
+chmod +x install.sh
+chmod +x instainsane.sh
